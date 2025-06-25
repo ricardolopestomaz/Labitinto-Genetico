@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "mapa.h": "c",
+        "props.h": "c",
+        "populacao.h": "c",
+        "fitness.h": "c"
+    }
+}
