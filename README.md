@@ -11,7 +11,13 @@ Projeto em C que implementa um **Algoritmo Genético** para navegação em labir
 Este projeto utiliza técnicas de computação evolutiva para resolver o problema de navegação em labirintos. Cada indivíduo possui um cromossomo que codifica movimentos no mapa, e a evolução ocorre por meio de seleção, crossover e mutação.
 
 ---
+### Grafico de Melhor individuo por Geração
+<p align="center">
+  <img src="https://i.ibb.co/pBLMVMRZ/Captura-de-tela-2025-06-25-101349.png" alt="Exemplo do projeto">
+</p>
 
+
+---
 ## ⚙️ Funcionalidades
 
 - Representação do indivíduo com cromossomo contendo movimentos:  
