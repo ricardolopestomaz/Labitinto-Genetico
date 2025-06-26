@@ -57,7 +57,7 @@ Este projeto utiliza técnicas de computação evolutiva para resolver o problem
 ## Compile o projeto:
  ```bash
 gcc main.c _crossover/crossover.c _fitness/fitness.c _individuo/individuo.c _mapa/mapa.c _mutacao/mutacao.c _populacao/populacao.c _props/props.c _selecao/selecao.c _simulacao/simulacao.c _logs/logs.c graficos/graficos.c -o main.exe
-
+  ```
 ## Execute o programa:
 ./main.exe
 
