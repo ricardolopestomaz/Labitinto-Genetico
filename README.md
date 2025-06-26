@@ -50,15 +50,15 @@ Este projeto utiliza técnicas de computação evolutiva para resolver o problem
 ## 🚀 Como Rodar
 
 1. Clone o repositório:
-   ```bash
+    ```bash
     git clone https://github.com/ricardolopestomaz/labirinto-genetico.git
     cd labirinto-genetico
-   ```
+    ```
 2. Compile o projeto:
- ```bash
-gcc main.c _crossover/crossover.c _fitness/fitness.c _individuo/individuo.c _mapa/mapa.c _mutacao/mutacao.c _populacao/populacao.c _props/props.c _selecao/selecao.c _simulacao/simulacao.c _logs/logs.c graficos/graficos.c -o main.exe
-  ```
+    ```bash
+    gcc main.c _crossover/crossover.c _fitness/fitness.c _individuo/individuo.c _mapa/mapa.c _mutacao/mutacao.c _populacao/populacao.c _props/props.c _selecao/selecao.c _simulacao/simulacao.c _logs/logs.c graficos/graficos.c -o main.exe
+    ```
 3. Execute o programa:
-```bash
-./main.exe
-```
+    ```bash
+    ./main.exe
+    ```
