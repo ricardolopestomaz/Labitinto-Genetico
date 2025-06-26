@@ -51,7 +51,7 @@ Este projeto utiliza técnicas de computação evolutiva para resolver o problem
 
 1. Clone o repositório:
    ```bash
-git clone https://github.com/ricardolopestomaz/labirinto-genetico.git
+    git clone https://github.com/ricardolopestomaz/labirinto-genetico.git
 cd labirinto-genetico
    ```
 2. Compile o projeto:
