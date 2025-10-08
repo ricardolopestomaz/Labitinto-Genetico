@@ -1,6 +1,6 @@
 # Labirinto Genético
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
 Projeto em C que implementa um **Algoritmo Genético** para navegação em labirintos, onde indivíduos evoluem para encontrar o melhor caminho até a saída.
 
